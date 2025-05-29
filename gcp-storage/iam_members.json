@@ -1,0 +1,14 @@
+[
+  {
+    "role": "roles/storage.objectViewer",
+    "member": "user:erik.walker@telus.com"
+  },
+  {
+    "role": "roles/storage.objectAdmin",
+    "member": "user:min.fei@telus.com"
+  },
+  {
+    "role": "roles/storage.admin",
+    "member": "serviceAccount:terraform-dev-local-min@minfei-test-lab-001304.iam.gserviceaccount.com"
+  }
+]
